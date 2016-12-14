@@ -1,6 +1,8 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme"
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"indentation": "Tab Width: 1",
-	"font_size": 12
+	"tab_size": 2,
+	"translate_tabs_to_spaces": false,
+	"font_size": 11
 }
